@@ -1,0 +1,89 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/11.7.0/bin/node">
+      <version-cache version="11.7.0" last-modified="1548167087000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.7.0" last-modified="1548167087000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/11.1.0/bin/node">
+      <version-cache last-modified="1541389938000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.8.0/bin/node">
+      <version-cache last-modified="1533877875000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.11.1/bin/node">
+      <version-cache last-modified="1524032709000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.9.0/bin/node">
+      <version-cache last-modified="1521787644000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nodenv/shims/node">
+      <version-cache version="9.2.1" last-modified="1515503383000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.2/bin/node">
+      <version-cache last-modified="1512633640000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node">
+      <version-cache last-modified="1511870133000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.9.0/bin/node">
+      <version-cache last-modified="1493273718000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.3.1/bin/node">
+      <version-cache version="6.3.1" last-modified="1469133890000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.10.0/bin/node">
+      <version-cache version="5.10.0" last-modified="1459475540000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node">
+      <version-cache version="5.5.0" last-modified="1453338507000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.12.5/bin/node">
+      <version-cache version="0.12.5" last-modified="1435072975000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node">
+      <version-cache version="0.10.32" last-modified="1410988846000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.37089503" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.608154" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6268882" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="JavaScript Implemented Method Body" />
+    <property name="HOST_KEYfumihogo" value="10.100.100.105" />
+    <property name="InstalledPluginsSearchHistory" value="reacts&#10;s" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="paste&#10;copy&#10;yank&#10;save&#10;comment" />
+    <property name="LAST_INJECTED_LANGUAGE" value="GenericSQL" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="true" />
+    <property name="PORT_KEYfumihogo" value="9001" />
+    <property name="RSpecSupport.hideIgnoredTests" value="false" />
+    <property name="RSpecSupport.hidePassedTests" value="true" />
+    <property name="RSpecSupport.openFailureLine" value="false" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="SettingsSearchHistory" value="storybook" />
+    <property name="TrendingPluginsSearchHistory" value="react&#10;reactsnipets&#10;storybook&#10;prettier&#10;JIRA" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="file.gist.reindex.count" value="118519" />
+    <property name="fileTypeChangedCounter" value="9" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

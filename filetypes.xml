@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="login" type="Ruby" />
+      <mapping pattern="_japanese_font" type="SCSS" />
+    </extensionMap>
+  </component>
+</application>
