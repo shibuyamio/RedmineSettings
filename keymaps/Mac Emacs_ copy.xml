@@ -244,6 +244,10 @@
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl meta f7" />
     <keyboard-shortcut first-keystroke="shift meta s" />
@@ -251,5 +255,9 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
 </keymap>
