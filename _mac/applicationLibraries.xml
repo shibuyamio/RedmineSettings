@@ -3535,15 +3535,18 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/benchmarks" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/benchmarks" />
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/chunky_png-1.3.11/benchmarks" />
       </excluded>
     </library>
@@ -11177,6 +11180,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/docs" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/yard-templates" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/bin" />
@@ -11184,12 +11188,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/docs" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/yard-templates" />
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/docs" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.0/lib/ruby/gems/2.6.0/gems/mocha-1.8.0/yard-templates" />
       </excluded>
     </library>
     <library name="msgpack (v1.2.4, rbenv: 2.5.0) [gem]" type="rubylib">
