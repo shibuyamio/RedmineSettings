@@ -1,6 +1,11 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="ruby" />
+    <option name="languageToLessonsNumberMap">
+      <map>
+        <entry key="ruby" value="18" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="myMap">
