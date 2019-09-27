@@ -108,11 +108,27 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Declaration and usages">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1569586904270" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Duplicate">
           <value>
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="8893" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="File structure">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1569587012143" />
             </StatisticData>
           </value>
         </entry>
