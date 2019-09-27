@@ -11,7 +11,7 @@
     <option name="myMap">
       <map>
         <entry key="Actions" value="PASSED" />
-        <entry key="Basic Completion" value="NOT_PASSED" />
+        <entry key="Basic Completion" value="PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
@@ -19,14 +19,14 @@
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
         <entry key="Collapse" value="NOT_PASSED" />
         <entry key="Comment Line" value="PASSED" />
-        <entry key="Completion with Tab" value="NOT_PASSED" />
-        <entry key="Declaration and usages" value="NOT_PASSED" />
+        <entry key="Completion with Tab" value="PASSED" />
+        <entry key="Declaration and usages" value="PASSED" />
         <entry key="Duplicate" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
-        <entry key="Extract Method" value="NOT_PASSED" />
-        <entry key="Extract Variable" value="NOT_PASSED" />
-        <entry key="File structure" value="NOT_PASSED" />
+        <entry key="Extract Method" value="PASSED" />
+        <entry key="Extract Variable" value="PASSED" />
+        <entry key="File structure" value="PASSED" />
         <entry key="GopherCon.CodeFormatting" value="NOT_PASSED" />
         <entry key="GopherCon.CommentLine" value="NOT_PASSED" />
         <entry key="GopherCon.ExtractFunction/Method" value="NOT_PASSED" />
@@ -36,7 +36,7 @@
         <entry key="GopherCon.ImplementMissingMethods" value="NOT_PASSED" />
         <entry key="GopherCon.Inline" value="NOT_PASSED" />
         <entry key="GopherCon.Rename" value="NOT_PASSED" />
-        <entry key="Hippie Completion" value="NOT_PASSED" />
+        <entry key="Hippie Completion" value="PASSED" />
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
         <entry key="Move" value="PASSED" />
         <entry key="Multiple Selections" value="PASSED" />
@@ -44,8 +44,8 @@
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
-        <entry key="Postfix Completion" value="NOT_PASSED" />
-        <entry key="Refactoring Menu" value="NOT_PASSED" />
+        <entry key="Postfix Completion" value="PASSED" />
+        <entry key="Refactoring Menu" value="PASSED" />
         <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
@@ -92,6 +92,22 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Basic Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="28680" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Class Search">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1569587293113" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Collapse">
           <value>
             <StatisticData>
@@ -108,11 +124,19 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Completion with Tab">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="16469" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Declaration and usages">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1569586904270" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="1131921" />
             </StatisticData>
           </value>
         </entry>
@@ -124,11 +148,35 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Extract Method">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="32483" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Extract Variable">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="49301" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="File structure">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1569587012143" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="153804" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Hippie Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="17626" />
             </StatisticData>
           </value>
         </entry>
@@ -145,6 +193,30 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="31274" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Postfix Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="134718" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactoring Menu">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="31939" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1569587680374" />
             </StatisticData>
           </value>
         </entry>
