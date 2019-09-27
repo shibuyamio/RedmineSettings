@@ -10,7 +10,7 @@
   <component name="LessonStateBase">
     <option name="myMap">
       <map>
-        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Actions" value="PASSED" />
         <entry key="Basic Completion" value="NOT_PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
@@ -18,10 +18,10 @@
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
         <entry key="Collapse" value="NOT_PASSED" />
-        <entry key="Comment Line" value="NOT_PASSED" />
+        <entry key="Comment Line" value="PASSED" />
         <entry key="Completion with Tab" value="NOT_PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
-        <entry key="Duplicate" value="NOT_PASSED" />
+        <entry key="Duplicate" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
         <entry key="Extract Method" value="NOT_PASSED" />
@@ -38,8 +38,8 @@
         <entry key="GopherCon.Rename" value="NOT_PASSED" />
         <entry key="Hippie Completion" value="NOT_PASSED" />
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
-        <entry key="Move" value="NOT_PASSED" />
-        <entry key="Multiple Selections" value="NOT_PASSED" />
+        <entry key="Move" value="PASSED" />
+        <entry key="Multiple Selections" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
@@ -51,7 +51,7 @@
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
         <entry key="Refactorings.Rename" value="NOT_PASSED" />
         <entry key="Rename" value="NOT_PASSED" />
-        <entry key="Select" value="NOT_PASSED" />
+        <entry key="Select" value="PASSED" />
         <entry key="Smart Type Completion" value="NOT_PASSED" />
         <entry key="Statement Completion" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
@@ -87,8 +87,56 @@
         <entry key="Actions">
           <value>
             <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="439544" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Collapse">
+          <value>
+            <StatisticData>
               <option name="state" value="STARTED" />
-              <option name="timestamp" value="1569586128634" />
+              <option name="timestamp" value="1569586764440" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Comment Line">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="22047" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="8893" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="16451" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Multiple Selections">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="31274" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Select">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="90161" />
             </StatisticData>
           </value>
         </entry>
