@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="Emacs+.ISearchForward">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Find" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
