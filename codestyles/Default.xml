@@ -4,7 +4,6 @@
     <option name="INDENT_PROTECTED_METHODS" value="true" />
   </Ruby>
   <codeStyleSettings language="ruby">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
