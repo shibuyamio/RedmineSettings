@@ -209,6 +209,9 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
