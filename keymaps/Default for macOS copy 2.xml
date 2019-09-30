@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for macOS copy 2" parent="Mac OS X 10.5+">
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="2" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
+  </action>
+</keymap>
