@@ -2216,6 +2216,56 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/agemono-a6ea23269d35/.swagger-codegen" />
       </excluded>
     </library>
+    <library name="agemono (v0.1.0@e58213, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.idea" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/schema" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.vscode" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.circleci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/node_modules" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.swagger-codegen" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.idea" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/schema" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.vscode" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.circleci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/node_modules" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.swagger-codegen" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.idea" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/schema" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.vscode" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.circleci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/agemono-e58213e0a368/.swagger-codegen" />
+      </excluded>
+    </library>
     <library name="agemono (v0.1.0@e7c8f2, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
