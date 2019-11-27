@@ -9,6 +9,7 @@
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern="login" type="Ruby" />
+      <mapping ext="ruby" type="Ruby" />
       <mapping pattern="_japanese_font" type="SCSS" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
