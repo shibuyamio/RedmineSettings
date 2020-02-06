@@ -101,7 +101,9 @@
     </context>
   </template>
   <template name="pta" value="PropTypes.array," description="Array prop type" toReformat="true" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
   </template>
   <template name="ptao" value="PropTypes.arrayOf($END$)," description="An array of a certain type" toReformat="true" toShortenFQNames="true">
     <context />
@@ -167,7 +169,9 @@
     <context />
   </template>
   <template name="ptsh" value="PropTypes.shape({&#10; $END$&#10;})," description="An object taking on a particular shape" toReformat="true" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
   </template>
   <template name="pts" value="PropTypes.string," description="String prop type" toReformat="true" toShortenFQNames="true">
     <context />
