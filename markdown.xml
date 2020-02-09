@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;    font-size: 80%;&#10;    font-family: &quot;游ゴシック体&quot;, YuGothic, &quot;游ゴシック&quot;, &quot;Yu Gothic&quot;, sans-serif;&#10;}" />
   </component>
 </application>
